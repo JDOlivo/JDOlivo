@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JDOlivo/Azure-SOC">Physical Security</a> and <a href="https://www.linkedin.com/in/jdolivo64/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/JDOlivo/Azure-SOC-Honeynet">Physical Security</a> and <a href="https://www.linkedin.com/in/jdolivo64/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
