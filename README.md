@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/JDOlivo/Azure-SOC-Honeynet)
+    
+  - <b>Network Map Walk-through</b>
+  - [Step by step Network Map Walk-through using Draw.io](https://github.com/JDOlivo/Network-Map)
 
 <h2>📺 Popular YouTube Videos</h2>
 
