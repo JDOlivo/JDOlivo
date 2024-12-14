@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Azure Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/JDOlivo/Azure-SOC-Honeynet)
     
-  - <b>Network Map Walk-through</b>
-  - [Step by step Network Map Walk-through using Draw.io](https://github.com/JDOlivo/Network-Map)
+- <b>Network Map Walkthrough</b>
+  - [Step-by-step Network Map Walkthrough using Draw.io](https://github.com/JDOlivo/Network-Map)
 
 <h2>📺 Popular YouTube Videos</h2>
 
