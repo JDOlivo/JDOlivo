@@ -1,9 +1,11 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JDOlivo/Azure-SOC-Honeynet">Physical Security</a> and <a href="https://www.linkedin.com/in/jdolivo64/">Cybersecurity Professional</a></h1>
+<h1>Joshua Olivo's <a href="https://www.linkedin.com/in/jdolivo64/"> Cybersecurity Project Portfolio </a></h1> <b> Welcome to my GitHub portfolio! As a cybersecurity enthusiast with a passion for solving complex problems, I’ve dedicated my projects to exploring areas like vulnerability management, threat detection, and incident response. Each project reflects my commitment to deepening my expertise and contributing to the ever-changing cybersecurity field. Take a look around, and feel free to explore how I approach securing systems and enhancing security operations!</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/JDOlivo/Azure-SOC-Honeynet)
+- <b> Vulnerability Management Program Implementation </b>
+  - [Under Construction.......](https://github.com/JDOlivo/TBD)
     
 - <b>Network Map Walkthrough</b>
   - [Step-by-step Network Map Walkthrough using Draw.io](https://github.com/JDOlivo/Network-Map)
@@ -18,7 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshuaOlivo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/jdolivo64/
