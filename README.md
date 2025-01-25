@@ -4,8 +4,8 @@
 
 - <b>Azure Project</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/JDOlivo/Azure-SOC-Honeynet)
-- <b> Vulnerability Management Program Implementation </b>
-  - [Under Construction.......](https://github.com/JDOlivo/TBD)
+- <b> Vulnerability Management Program </b>
+  - [Vulnerability Management Program Implementation](https://github.com/JDOlivo/Vulnerability-Management-Program)
     
 - <b>Network Map Walkthrough</b>
   - [Step-by-step Network Map Walkthrough using Draw.io](https://github.com/JDOlivo/Network-Map)
